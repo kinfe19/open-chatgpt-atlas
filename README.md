@@ -120,7 +120,7 @@ Then reload the extension in Chrome after each change.
 
 ## Documentation
 
-- **[FAQ](./FAQ.md)** - Frequently asked questions and quick troubleshooting
+- **[FAQ](./FAQ.md)** - Frequently asked questions and quick troubleshooting OR CONTACT ME
 - **[TROUBLESHOOTING.md](./TROUBLESHOOTING.md)** - Detailed troubleshooting guide for common issues
 
 ## References
